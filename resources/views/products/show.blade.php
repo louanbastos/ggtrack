@@ -16,7 +16,7 @@
             <div class="form-group">
                 <strong>Name:</strong>
                 {{ $product->code }}
-                <?php echo e($product->code); ?>
+                <!--<?php echo e($product->code); ?>-->
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
